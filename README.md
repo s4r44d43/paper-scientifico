@@ -1,3 +1,3 @@
 paper scientifico
 ===
-coma html di un paper scientifico
+html di un paper scientifico
